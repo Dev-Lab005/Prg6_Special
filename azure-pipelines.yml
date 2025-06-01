@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: 'devpool' # Your self-hosted agent pool name
+  name: 'swimming-pool' # Your self-hosted agent pool name
 
 steps:
   # Step 1: Checkout the Code from GitHub
